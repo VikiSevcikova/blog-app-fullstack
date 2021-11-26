@@ -1,0 +1,6 @@
+[submodule "blog-app-server"]
+	path = blog-app-server
+	url = https://github.com/VikiSevcikova/blog-app-server.git
+[submodule "blog-app"]
+	path = blog-app
+	url = https://github.com/VikiSevcikova/blog-app.git
